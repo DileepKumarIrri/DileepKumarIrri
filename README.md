@@ -5,12 +5,10 @@ I am Dileep Kumar,I am currently pursuing my Bachelors in computer science from 
 
 <!-- <p align="left"><img src="https://komarev.com/ghpvc/?username=HridoyHazard" alt="HridoyHazard" /> </p> -->
 
-- 🌱 I’m currently learning **MERN Stack**
-- 👯 I’m looking to collaborate on **Web Development Related Projects**
-- 🤔 I’m looking for help with **MERN**
-- 🥅 2024 Goals: To be profficient in MERN Stack :|
+- 🌱 I’m currently learning **Nothing**
+- 👯 I’m looking to collaborate on **Machine And Deep Learning**
 - ⚡ Fun fact: I love taking photos, playing video games etc
-
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :blush:</em>
 ## 🛠️ Tools
 
 <p align=center>
@@ -149,4 +147,4 @@ I am Dileep Kumar,I am currently pursuing my Bachelors in computer science from 
 <a href="https://github.com/DileepKumarIrri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="HridoyHazard" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/dk-dileep/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shahadat-hossain-hridoy-629aa81b3/" height="30" width="50" /></a>
     
-  
+  <h4 align="center"> Thanks for Visiting!:innocent:</h4>
